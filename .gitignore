@@ -1,0 +1,9 @@
+config.py
+*.log
+*.report
+*.stdout
+*.key
+*.db
+*.db-journal
+*.sqlite3
+__pycache__/
